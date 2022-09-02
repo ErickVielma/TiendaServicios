@@ -1,6 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using TiendaServicios.Api.Autor.Modelo;
 
 namespace TiendaServicios.Api.Autor.Aplicacion
 {

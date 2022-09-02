@@ -10,7 +10,7 @@ using TiendaServicios.Api.Autor.Modelo;
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
 /**
- * Clase controller de la entidad de autor
+ * Clase controller de la entidad de Autor
  * 
  * Author: Erick Eduardo Vielma Martínez
  * Since: Lunes, 29 de Agosto del 2022

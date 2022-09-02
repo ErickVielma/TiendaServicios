@@ -49,7 +49,7 @@ namespace TiendaServicios.Api.Autor
             /**
              * Método que se encarga de mapear los Modelos con los dtos
              */
-            services.AddAutoMapper(typeof(Consulta.ListaAutor));
+            services.AddAutoMapper(typeof(Consulta.ListaAutor));            
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

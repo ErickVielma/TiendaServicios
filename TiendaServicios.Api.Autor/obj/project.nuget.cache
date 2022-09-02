@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "9vItC+n/IERyJTTkGg3sPAhjOVLcKcAW3Vk0I5Pbm2Lkmrc853IU/FAC0O9HKvCulH1OZbYIO85JEg0BbG5zlw==",
+  "dgSpecHash": "YUDk0j8jSGqYKdgJLWp3RcHX3atV2/Qi2kqo87XF4SVrNtud5HPQKpnXcml5u01Vf+pzEgokPJAQrcoFRyIrwQ==",
   "success": true,
   "projectFilePath": "/Users/erick.vielma/Personal/Projects/Cursos/Curso .Net/TiendaServicios/TiendaServicios.Api.Autor/TiendaServicios.Api.Autor.csproj",
   "expectedPackageFiles": [
@@ -47,10 +47,7 @@
     "/Users/erick.vielma/.nuget/packages/system.runtime/4.3.0/system.runtime.4.3.0.nupkg.sha512",
     "/Users/erick.vielma/.nuget/packages/system.runtime.compilerservices.unsafe/4.6.0/system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512",
     "/Users/erick.vielma/.nuget/packages/system.text.encoding/4.3.0/system.text.encoding.4.3.0.nupkg.sha512",
-    "/Users/erick.vielma/.nuget/packages/system.threading.tasks/4.3.0/system.threading.tasks.4.3.0.nupkg.sha512",
-    "/Users/erick.vielma/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
-    "/Users/erick.vielma/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.28/microsoft.netcore.app.host.osx-x64.3.1.28.nupkg.sha512",
-    "/Users/erick.vielma/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+    "/Users/erick.vielma/.nuget/packages/system.threading.tasks/4.3.0/system.threading.tasks.4.3.0.nupkg.sha512"
   ],
   "logs": []
 }
