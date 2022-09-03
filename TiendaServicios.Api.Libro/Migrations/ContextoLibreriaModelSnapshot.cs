@@ -2,8 +2,8 @@
 using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
+using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
-using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
 using TiendaServicios.Api.Libro.Persistencia;
 
 namespace TiendaServicios.Api.Libro.Migrations
@@ -15,26 +15,26 @@ namespace TiendaServicios.Api.Libro.Migrations
         {
 #pragma warning disable 612, 618
             modelBuilder
-                .HasAnnotation("Npgsql:ValueGenerationStrategy", NpgsqlValueGenerationStrategy.IdentityByDefaultColumn)
                 .HasAnnotation("ProductVersion", "3.1.2")
-                .HasAnnotation("Relational:MaxIdentifierLength", 63);
+                .HasAnnotation("Relational:MaxIdentifierLength", 128)
+                .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
 
             modelBuilder.Entity("TiendaServicios.Api.Libro.Modelo.LibreriaMaterial", b =>
                 {
-                    b.Property<Guid?>("libreriaMaterialId")
+                    b.Property<Guid?>("LibreriaMaterialId")
                         .ValueGeneratedOnAdd()
-                        .HasColumnType("uuid");
+                        .HasColumnType("uniqueidentifier");
 
-                    b.Property<Guid?>("autorLibro")
-                        .HasColumnType("uuid");
+                    b.Property<Guid?>("AutorLibro")
+                        .HasColumnType("uniqueidentifier");
 
-                    b.Property<DateTime?>("fechaPublicacion")
-                        .HasColumnType("timestamp without time zone");
+                    b.Property<DateTime?>("FechaPublicacion")
+                        .HasColumnType("datetime2");
 
-                    b.Property<string>("titulo")
-                        .HasColumnType("text");
+                    b.Property<string>("Titulo")
+                        .HasColumnType("nvarchar(max)");
 
-                    b.HasKey("libreriaMaterialId");
+                    b.HasKey("LibreriaMaterialId");
 
                     b.ToTable("LibreriaMaterial");
                 });

@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -31,21 +31,17 @@ namespace TiendaServicios.Api.Libro
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllers().AddFluentValidation(cfg => cfg.RegisterValidatorsFromAssemblyContaining<Nuevo>());
-            /**
-            * Método donde se realiza la conexión a la base de datos
-            */
-            services.AddDbContext<ContextoLibreria>(options =>
+
+            services.AddDbContext<ContextoLibreria>(opt =>
             {
-                options.UseNpgsql(Configuration.GetConnectionString("DataBaseConnection"));
+                opt.UseSqlServer(Configuration.GetConnectionString("ConexionDB"));
             });
-            /**
-             * Método donde se expone el servicio a ejecutar
-             */
+
             services.AddMediatR(typeof(Nuevo.Manejador).Assembly);
-            /**
-             * Método que se encarga de mapear los Modelos con los dtos
-             */
-            services.AddAutoMapper(typeof(Consulta.Manejador));
+
+            services.AddAutoMapper(typeof(Consulta.Ejecuta));
+
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -67,4 +63,3 @@ namespace TiendaServicios.Api.Libro
         }
     }
 }
-

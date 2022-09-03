@@ -1,44 +1,43 @@
-﻿using System;
-using AutoMapper;
+﻿using AutoMapper;
 using MediatR;
+using Microsoft.EntityFrameworkCore;
+using System;
+using System.Collections.Generic;
+using System.Linq;
 using System.Threading;
 using System.Threading.Tasks;
-using TiendaServicios.Api.Libro.Persistencia;
 using TiendaServicios.Api.Libro.Modelo;
-using System.Linq;
-using Microsoft.EntityFrameworkCore;
+using TiendaServicios.Api.Libro.Persistencia;
 
 namespace TiendaServicios.Api.Libro.Aplicacion
 {
     public class ConsultaFiltro
     {
-        public class LibroUnico : IRequest<LibreriaMaterialDto>
-        {
-            public string libreriaMaterialId { get; set; }
+
+        public class LibroUnico : MediatR.IRequest<LibroMaterialDto> { 
+            public Guid? LibroId { get; set; }
         }
 
-        public class Manejador : IRequestHandler<LibroUnico, LibreriaMaterialDto>
+        public class Manejador : IRequestHandler<LibroUnico, LibroMaterialDto>
         {
             private readonly ContextoLibreria _contexto;
             private readonly IMapper _mapper;
 
-            public Manejador(ContextoLibreria contexto, IMapper mapper)
-            {
-                _mapper = mapper;
+            public Manejador(ContextoLibreria contexto, IMapper mapper) {
                 _contexto = contexto;
+                _mapper = mapper;
             }
-
-            public async Task<LibreriaMaterialDto> Handle(LibroUnico request, CancellationToken cancellationToken)
+            public async Task<LibroMaterialDto> Handle(LibroUnico request, CancellationToken cancellationToken)
             {
-                var autor = await _contexto.LibreriaMaterial.Where(x => Convert.ToString(x.libreriaMaterialId) == request.libreriaMaterialId).FirstOrDefaultAsync();
-                if (autor == null)
-                {
-                    throw new Exception("No se encontro el autor");
+                var libro = await _contexto.LibreriaMaterial.Where(x => x.LibreriaMaterialId == request.LibroId).FirstOrDefaultAsync();
+                if (libro == null) {
+                    throw new Exception("No se encontro el libro");
                 }
-                var autorDto = _mapper.Map<LibreriaMaterial, LibreriaMaterialDto>(autor);
-                return autorDto;
+
+                var libroDto = _mapper.Map<LibreriaMaterial, LibroMaterialDto>(libro);
+                return libroDto;
             }
         }
+
     }
 }
-
