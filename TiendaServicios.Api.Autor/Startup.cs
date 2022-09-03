@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -30,26 +30,16 @@ namespace TiendaServicios.Api.Autor
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddControllers();
-            /**
-             * Método donde se realiza la conexión a la base de datos
-             */
+            services.AddControllers().AddFluentValidation(cfg => cfg.RegisterValidatorsFromAssemblyContaining<Nuevo>());
+
             services.AddDbContext<ContextoAutor>(options =>
             {
-                options.UseNpgsql(Configuration.GetConnectionString("DataBaseConnection"));
+                options.UseNpgsql(Configuration.GetConnectionString("ConexionDatabase"));
             });
-            /**
-             * Método donde se expone el servicio a ejecutar
-             */
+
             services.AddMediatR(typeof(Nuevo.Manejador).Assembly);
-            /**
-             * Método donde se ejecutan las validaciones
-             */
-            services.AddControllers().AddFluentValidation(cfg => cfg.RegisterValidatorsFromAssemblyContaining<Nuevo>());
-            /**
-             * Método que se encarga de mapear los Modelos con los dtos
-             */
             services.AddAutoMapper(typeof(Consulta.Manejador));
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -71,4 +61,3 @@ namespace TiendaServicios.Api.Autor
         }
     }
 }
-
