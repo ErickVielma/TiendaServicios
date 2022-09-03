@@ -35,8 +35,11 @@
     <MultiItemSolutionRunConfiguration Id="Multiple Projects" Name="Multiple Projects">
       <Items>
         <StartupItem ItemId="{D96EC9B8-4454-446E-8EF3-1511C0B40F56}" ItemName="TiendaServicios.Api.Autor" ConfigurationId="Default" />
+        <StartupItem ItemId="{C8BB5FD4-070A-4819-B342-B8961BBB66E6}" ItemName="TiendaServicios.Api.CarritoCompra" ConfigurationId="Default" />
+        <StartupItem ItemId="{116812B0-FCA6-4B23-88F2-D9785058C790}" ItemName="TiendaServicios.Api.Libro" ConfigurationId="Default" />
       </Items>
     </MultiItemSolutionRunConfiguration>
   </MultiItemStartupConfigurations>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TiendaServicios.Api.CarritoCompra PreferredExecutionTarget="/Applications/Google Chrome.app" />
 </Properties>
