@@ -45,7 +45,7 @@ namespace TiendaServicios.Api.Libro
             /**
              * Método que se encarga de mapear los Modelos con los dtos
              */
-            services.AddAutoMapper(typeof(Consulta.ListaLibro));
+            services.AddAutoMapper(typeof(Consulta.Manejador));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
