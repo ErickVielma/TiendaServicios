@@ -5,42 +5,19 @@
   </PropertyGroup>
 
 
-  <ItemGroup>
-    <None Remove="Microsoft.EntityFrameworkCore" />
-    <None Remove="AutoMapper.Extensions.Microsoft.DependencyInjection" />
-    <None Remove="FluentValidation.AspNetCore" />
-    <None Remove="MediatR.Extensions.Microsoft.DependencyInjection" />
-    <None Remove="Microsoft.EntityFrameworkCore.Tools" />
-    <None Remove="Microsoft.EntityFrameworkCore.Design" />
-    <None Remove="Npgsql.EntityFrameworkCore.PostgreSQL" />
-    <None Remove="Aplicacion\" />
-    <None Remove="Modelo\" />
-    <None Remove="Persistencia\" />
-    <None Remove="RemoteModel\" />
-    <None Remove="RemoteInterface\" />
-    <None Remove="RemoteService\" />
-  </ItemGroup>
-  <ItemGroup>
-    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.2" />
-    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="6.1.1" />
-    <PackageReference Include="FluentValidation.AspNetCore" Version="8.6.2" />
-    <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="8.0.0" />
-    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.1.2">
-      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
-      <PrivateAssets>all</PrivateAssets>
-    </PackageReference>
-    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="3.1.2">
-      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
-      <PrivateAssets>all</PrivateAssets>
-    </PackageReference>
-    <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="3.1.2" />
-  </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Aplicacion\" />
-    <Folder Include="Modelo\" />
-    <Folder Include="Persistencia\" />
-    <Folder Include="RemoteModel\" />
-    <Folder Include="RemoteInterface\" />
-    <Folder Include="RemoteService\" />
-  </ItemGroup>
+	<ItemGroup>
+		<PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.2" />
+		<PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="3.1.2">
+			<IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+			<PrivateAssets>all</PrivateAssets>
+		</PackageReference>
+		<PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.1.2">
+			<IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+			<PrivateAssets>all</PrivateAssets>
+		</PackageReference>
+		<PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="3.1.2" />
+		<PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="8.0.0" />
+		<PackageReference Include="FluentValidation.AspNetCore" Version="8.6.2" />
+		<PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="6.1.1" />
+	</ItemGroup>
 </Project>
