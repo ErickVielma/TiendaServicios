@@ -1,33 +1,35 @@
 {
   "format": 1,
   "restore": {
-    "/Users/erick.vielma/Personal/Projects/Cursos/Curso .Net/TiendaServicios/TiendaServicios.Api.Libro.Tests/TiendaServicios.Api.Libro.Tests.csproj": {}
+    "C:\\Personal\\Source\\Cursos\\Curso .Net\\TiendaServicios\\TiendaServicios.Api.Libro.Tests\\TiendaServicios.Api.Libro.Tests.csproj": {}
   },
   "projects": {
-    "/Users/erick.vielma/Personal/Projects/Cursos/Curso .Net/TiendaServicios/TiendaServicios.Api.Libro.Tests/TiendaServicios.Api.Libro.Tests.csproj": {
+    "C:\\Personal\\Source\\Cursos\\Curso .Net\\TiendaServicios\\TiendaServicios.Api.Libro.Tests\\TiendaServicios.Api.Libro.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/erick.vielma/Personal/Projects/Cursos/Curso .Net/TiendaServicios/TiendaServicios.Api.Libro.Tests/TiendaServicios.Api.Libro.Tests.csproj",
+        "projectUniqueName": "C:\\Personal\\Source\\Cursos\\Curso .Net\\TiendaServicios\\TiendaServicios.Api.Libro.Tests\\TiendaServicios.Api.Libro.Tests.csproj",
         "projectName": "TiendaServicios.Api.Libro.Tests",
-        "projectPath": "/Users/erick.vielma/Personal/Projects/Cursos/Curso .Net/TiendaServicios/TiendaServicios.Api.Libro.Tests/TiendaServicios.Api.Libro.Tests.csproj",
-        "packagesPath": "/Users/erick.vielma/.nuget/packages/",
-        "outputPath": "/Users/erick.vielma/Personal/Projects/Cursos/Curso .Net/TiendaServicios/TiendaServicios.Api.Libro.Tests/obj/",
+        "projectPath": "C:\\Personal\\Source\\Cursos\\Curso .Net\\TiendaServicios\\TiendaServicios.Api.Libro.Tests\\TiendaServicios.Api.Libro.Tests.csproj",
+        "packagesPath": "C:\\Users\\erick\\.nuget\\packages\\",
+        "outputPath": "C:\\Personal\\Source\\Cursos\\Curso .Net\\TiendaServicios\\TiendaServicios.Api.Libro.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/erick.vielma/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\erick\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/Users/erick.vielma/Personal/Projects/Cursos/Curso .Net/TiendaServicios/TiendaServicios.Api.Libro/TiendaServicios.Api.Libro.csproj": {
-                "projectPath": "/Users/erick.vielma/Personal/Projects/Cursos/Curso .Net/TiendaServicios/TiendaServicios.Api.Libro/TiendaServicios.Api.Libro.csproj"
+              "C:\\Personal\\Source\\Cursos\\Curso .Net\\TiendaServicios\\TiendaServicios.Api.Libro\\TiendaServicios.Api.Libro.csproj": {
+                "projectPath": "C:\\Personal\\Source\\Cursos\\Curso .Net\\TiendaServicios\\TiendaServicios.Api.Libro\\TiendaServicios.Api.Libro.csproj"
               }
             }
           }
@@ -46,29 +48,33 @@
               "target": "Package",
               "version": "[1.6.0, )"
             },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
-              "version": "[17.3.1, )"
+              "version": "[16.5.0, )"
             },
             "Moq": {
               "target": "Package",
-              "version": "[4.18.2, )"
+              "version": "[4.14.5, )"
+            },
+            "NSubstitute": {
+              "target": "Package",
+              "version": "[4.2.2, )"
             },
             "coverlet.collector": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
               "target": "Package",
-              "version": "[3.1.2, )"
+              "version": "[1.2.0, )"
             },
             "xunit": {
               "target": "Package",
-              "version": "[2.4.2, )"
+              "version": "[2.4.0, )"
             },
             "xunit.runner.visualstudio": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
               "target": "Package",
-              "version": "[2.4.5, )"
+              "version": "[2.4.0, )"
             }
           },
           "imports": [
@@ -77,8 +83,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -87,26 +92,28 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.400/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.411\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/erick.vielma/Personal/Projects/Cursos/Curso .Net/TiendaServicios/TiendaServicios.Api.Libro/TiendaServicios.Api.Libro.csproj": {
+    "C:\\Personal\\Source\\Cursos\\Curso .Net\\TiendaServicios\\TiendaServicios.Api.Libro\\TiendaServicios.Api.Libro.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/erick.vielma/Personal/Projects/Cursos/Curso .Net/TiendaServicios/TiendaServicios.Api.Libro/TiendaServicios.Api.Libro.csproj",
+        "projectUniqueName": "C:\\Personal\\Source\\Cursos\\Curso .Net\\TiendaServicios\\TiendaServicios.Api.Libro\\TiendaServicios.Api.Libro.csproj",
         "projectName": "TiendaServicios.Api.Libro",
-        "projectPath": "/Users/erick.vielma/Personal/Projects/Cursos/Curso .Net/TiendaServicios/TiendaServicios.Api.Libro/TiendaServicios.Api.Libro.csproj",
-        "packagesPath": "/Users/erick.vielma/.nuget/packages/",
-        "outputPath": "/Users/erick.vielma/Personal/Projects/Cursos/Curso .Net/TiendaServicios/TiendaServicios.Api.Libro/obj/",
+        "projectPath": "C:\\Personal\\Source\\Cursos\\Curso .Net\\TiendaServicios\\TiendaServicios.Api.Libro\\TiendaServicios.Api.Libro.csproj",
+        "packagesPath": "C:\\Users\\erick\\.nuget\\packages\\",
+        "outputPath": "C:\\Personal\\Source\\Cursos\\Curso .Net\\TiendaServicios\\TiendaServicios.Api.Libro\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/erick.vielma/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\erick\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -127,35 +134,35 @@
           "dependencies": {
             "AutoMapper.Extensions.Microsoft.DependencyInjection": {
               "target": "Package",
-              "version": "[11.0.0, )"
+              "version": "[6.1.1, )"
             },
             "FluentValidation.AspNetCore": {
               "target": "Package",
-              "version": "[11.2.1, )"
+              "version": "[8.6.2, )"
             },
             "MediatR.Extensions.Microsoft.DependencyInjection": {
               "target": "Package",
-              "version": "[10.0.1, )"
+              "version": "[8.0.0, )"
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[6.0.8, )"
+              "version": "[3.1.2, )"
             },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[6.0.8, )"
+              "version": "[3.1.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.2, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[6.0.8, )"
-            },
-            "Npgsql.EntityFrameworkCore.PostgreSQL": {
-              "target": "Package",
-              "version": "[6.0.6, )"
+              "version": "[3.1.2, )"
             }
           },
           "imports": [
@@ -164,8 +171,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -177,7 +183,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.400/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.411\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -6,3 +6,6 @@ TiendaServicios.Api.Autor/obj/TiendaServicios.Api.Autor.csproj.nuget.dgspec.json
 *.targets
 *.props
 *.editorconfig
+*.cache
+*.json
+*.json
