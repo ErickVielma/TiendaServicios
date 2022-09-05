@@ -33,7 +33,7 @@ namespace TiendaServicios.Api.Libro.Controllers
         [HttpGet]
         public async Task<ActionResult<List<LibreriaMaterialDto>>> getLibros()
         {
-            return await _mediator.Send(new Consulta.ListaLibro());
+            return await _mediator.Send(new Consulta.Ejecuta());
         }
 
         [HttpGet("{id}")]

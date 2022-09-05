@@ -1,25 +1,19 @@
 ﻿<Properties StartupConfiguration="{D96EC9B8-4454-446E-8EF3-1511C0B40F56}|Default">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.TiendaServicios.Api.Libro.Tests FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.ItemProperties.TiendaServicios.Api.Libro PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.ItemProperties.TiendaServicios.Api.Autor PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="TiendaServicios" expanded="True">
-            <Node name="TiendaServicios.Api.Autor" expanded="True">
-              <Node name="Aplicacion" expanded="True" />
-              <Node name="Controllers" expanded="True">
-                <Node name="AutorController.cs" selected="True" />
-              </Node>
-              <Node name="Modelo" expanded="True" />
-            </Node>
-            <Node name="TiendaServicios.Api.Libro" expanded="True">
-              <Node name="Aplicacion" expanded="True" />
-              <Node name="Controllers" expanded="True" />
-              <Node name="Modelo" expanded="True" />
-              <Node name="Persistencia" expanded="True" />
-            </Node>
+            <Node name="TiendaServicios.Api.Autor" expanded="True" />
+            <Node name="TiendaServicios.Api.CarritoCompra" expanded="True" />
+            <Node name="TiendaServicios.Api.Libro" expanded="True" />
           </Node>
         </State>
       </Pad>
@@ -28,9 +22,6 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <Breakpoint file="/Users/erick.vielma/Personal/Projects/Cursos/Curso .Net/TiendaServicios/TiendaServicios.Api.Libro/Aplicacion/Nuevo.cs" relfile="TiendaServicios.Api.Libro/Aplicacion/Nuevo.cs" line="60" column="1" />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations>
     <MultiItemSolutionRunConfiguration Id="Multiple Projects" Name="Multiple Projects">
       <Items>
@@ -40,6 +31,5 @@
       </Items>
     </MultiItemSolutionRunConfiguration>
   </MultiItemStartupConfigurations>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.TiendaServicios.Api.CarritoCompra PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.ItemProperties.TiendaServicios.Api.Autor PreferredExecutionTarget="/Applications/Google Chrome.app" />
 </Properties>

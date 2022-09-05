@@ -75,7 +75,7 @@ namespace TiendaServicios.Api.Autor.Migrations
             modelBuilder.Entity("TiendaServicios.Api.Autor.Modelo.GradoAcademico", b =>
                 {
                     b.HasOne("TiendaServicios.Api.Autor.Modelo.AutorLibro", "autorLibro")
-                        .WithMany("listaGrafoAcademico")
+                        .WithMany("listaGradoAcademico")
                         .HasForeignKey("autorLibroId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();

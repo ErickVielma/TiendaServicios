@@ -12,9 +12,9 @@ namespace TiendaServicios.Api.Libro.Aplicacion
 {
     public class Consulta
     {
-        public class ListaLibro : IRequest<List<LibreriaMaterialDto>> { }
+        public class Ejecuta : IRequest<List<LibreriaMaterialDto>> { }
 
-        public class Manejador : IRequestHandler<ListaLibro, List<LibreriaMaterialDto>>
+        public class Manejador : IRequestHandler<Ejecuta, List<LibreriaMaterialDto>>
         {
             private readonly ContextoLibreria _contexto;
             private readonly IMapper _mapper;
@@ -25,7 +25,7 @@ namespace TiendaServicios.Api.Libro.Aplicacion
                 _contexto = contexto;
             }
 
-            public async Task<List<LibreriaMaterialDto>> Handle(ListaLibro request, CancellationToken cancellationToken)
+            public async Task<List<LibreriaMaterialDto>> Handle(Ejecuta request, CancellationToken cancellationToken)
             {
                 var libros = await _contexto.LibreriaMaterial.ToListAsync();
                 var librosDto = _mapper.Map<List<LibreriaMaterial>, List<LibreriaMaterialDto>>(libros);
