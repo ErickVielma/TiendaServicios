@@ -21,62 +21,62 @@ namespace TiendaServicios.Api.Autor.Migrations
 
             modelBuilder.Entity("TiendaServicios.Api.Autor.Modelo.AutorLibro", b =>
                 {
-                    b.Property<int>("AutorLibroId")
+                    b.Property<int>("autorLibroId")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("integer")
                         .HasAnnotation("Npgsql:ValueGenerationStrategy", NpgsqlValueGenerationStrategy.IdentityByDefaultColumn);
 
-                    b.Property<string>("Apellido")
+                    b.Property<string>("apellido")
                         .HasColumnType("text");
 
-                    b.Property<string>("AutorLibroGuid")
+                    b.Property<string>("autorLibroGuid")
                         .HasColumnType("text");
 
-                    b.Property<DateTime?>("FechaNacimiento")
+                    b.Property<DateTime?>("fechaNacimiento")
                         .HasColumnType("timestamp without time zone");
 
-                    b.Property<string>("Nombre")
+                    b.Property<string>("nombre")
                         .HasColumnType("text");
 
-                    b.HasKey("AutorLibroId");
+                    b.HasKey("autorLibroId");
 
                     b.ToTable("AutorLibro");
                 });
 
             modelBuilder.Entity("TiendaServicios.Api.Autor.Modelo.GradoAcademico", b =>
                 {
-                    b.Property<int>("GradoAcademicoId")
+                    b.Property<int>("gradoAcademicoId")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("integer")
                         .HasAnnotation("Npgsql:ValueGenerationStrategy", NpgsqlValueGenerationStrategy.IdentityByDefaultColumn);
 
-                    b.Property<int>("AutorLibroId")
+                    b.Property<int>("autorLibroId")
                         .HasColumnType("integer");
 
-                    b.Property<string>("CentroAcademico")
+                    b.Property<string>("centroAcademico")
                         .HasColumnType("text");
 
-                    b.Property<DateTime?>("FechaGrado")
+                    b.Property<DateTime?>("fechaGradoAcademico")
                         .HasColumnType("timestamp without time zone");
 
-                    b.Property<string>("GradoAcademicoGuid")
+                    b.Property<string>("gradoAcademicoGuid")
                         .HasColumnType("text");
 
-                    b.Property<string>("Nombre")
+                    b.Property<string>("nombre")
                         .HasColumnType("text");
 
-                    b.HasKey("GradoAcademicoId");
+                    b.HasKey("gradoAcademicoId");
 
-                    b.HasIndex("AutorLibroId");
+                    b.HasIndex("autorLibroId");
 
                     b.ToTable("GradoAcademico");
                 });
 
             modelBuilder.Entity("TiendaServicios.Api.Autor.Modelo.GradoAcademico", b =>
                 {
-                    b.HasOne("TiendaServicios.Api.Autor.Modelo.AutorLibro", "AutorLibro")
-                        .WithMany("ListaGradoAcademico")
-                        .HasForeignKey("AutorLibroId")
+                    b.HasOne("TiendaServicios.Api.Autor.Modelo.AutorLibro", "autorLibro")
+                        .WithMany("listaGrafoAcademico")
+                        .HasForeignKey("autorLibroId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
                 });

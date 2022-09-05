@@ -1,48 +1,98 @@
-C:\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\appsettings.Development.json
-C:\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\appsettings.json
-C:\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
-C:\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.exe
-C:\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.AssemblyInfoInputs.cache
-C:\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.AssemblyInfo.cs
-C:\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.RazorTargetAssemblyInfo.cache
-C:\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\staticwebassets\TiendaServicios.Api.Autor.StaticWebAssets.Manifest.cache
-C:\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\staticwebassets\TiendaServicios.Api.Autor.StaticWebAssets.xml
-C:\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
-C:\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
-C:\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
-C:\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
-C:\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
-C:\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
-C:\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
-C:\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
-C:\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
-C:\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-C:\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
-C:\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
-C:\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
-C:\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
-C:\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.csproj.CopyComplete
-C:\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
-C:\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
-C:\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.deps.json
-C:\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.runtimeconfig.json
-C:\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.runtimeconfig.dev.json
-C:\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.dll
-C:\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.pdb
-C:\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Npgsql.dll
-C:\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
-C:\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.dll
-C:\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.pdb
-C:\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.genruntimeconfig.cache
-C:\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\MediatR.dll
-C:\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
-C:\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\FluentValidation.dll
-C:\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
-C:\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
-C:\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\AutoMapper.dll
-C:\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
-C:\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.csproj.CoreCompileInputs.cache
-C:\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.MvcApplicationPartsAssemblyInfo.cs
-C:\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.MvcApplicationPartsAssemblyInfo.cache
-C:\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.csprojAssemblyReference.cache
+/Users/erick.vielma/Personal/Projects/Cursos/Curso .Net/TiendaServicios/TiendaServicios.Api.Autor/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/erick.vielma/Personal/Projects/Cursos/Curso .Net/TiendaServicios/TiendaServicios.Api.Autor/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/erick.vielma/Personal/Projects/Cursos/Curso .Net/TiendaServicios/TiendaServicios.Api.Autor/bin/Debug/netcoreapp3.1/TiendaServicios.Api.Autor
+/Users/erick.vielma/Personal/Projects/Cursos/Curso .Net/TiendaServicios/TiendaServicios.Api.Autor/bin/Debug/netcoreapp3.1/TiendaServicios.Api.Autor.deps.json
+/Users/erick.vielma/Personal/Projects/Cursos/Curso .Net/TiendaServicios/TiendaServicios.Api.Autor/bin/Debug/netcoreapp3.1/TiendaServicios.Api.Autor.runtimeconfig.json
+/Users/erick.vielma/Personal/Projects/Cursos/Curso .Net/TiendaServicios/TiendaServicios.Api.Autor/bin/Debug/netcoreapp3.1/TiendaServicios.Api.Autor.runtimeconfig.dev.json
+/Users/erick.vielma/Personal/Projects/Cursos/Curso .Net/TiendaServicios/TiendaServicios.Api.Autor/bin/Debug/netcoreapp3.1/TiendaServicios.Api.Autor.dll
+/Users/erick.vielma/Personal/Projects/Cursos/Curso .Net/TiendaServicios/TiendaServicios.Api.Autor/bin/Debug/netcoreapp3.1/TiendaServicios.Api.Autor.pdb
+/Users/erick.vielma/Personal/Projects/Cursos/Curso .Net/TiendaServicios/TiendaServicios.Api.Autor/bin/Debug/netcoreapp3.1/MediatR.dll
+/Users/erick.vielma/Personal/Projects/Cursos/Curso .Net/TiendaServicios/TiendaServicios.Api.Autor/bin/Debug/netcoreapp3.1/MediatR.Contracts.dll
+/Users/erick.vielma/Personal/Projects/Cursos/Curso .Net/TiendaServicios/TiendaServicios.Api.Autor/bin/Debug/netcoreapp3.1/MediatR.Extensions.Microsoft.DependencyInjection.dll
+/Users/erick.vielma/Personal/Projects/Cursos/Curso .Net/TiendaServicios/TiendaServicios.Api.Autor/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/erick.vielma/Personal/Projects/Cursos/Curso .Net/TiendaServicios/TiendaServicios.Api.Autor/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+/Users/erick.vielma/Personal/Projects/Cursos/Curso .Net/TiendaServicios/TiendaServicios.Api.Autor/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/erick.vielma/Personal/Projects/Cursos/Curso .Net/TiendaServicios/TiendaServicios.Api.Autor/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/erick.vielma/Personal/Projects/Cursos/Curso .Net/TiendaServicios/TiendaServicios.Api.Autor/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/Users/erick.vielma/Personal/Projects/Cursos/Curso .Net/TiendaServicios/TiendaServicios.Api.Autor/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/erick.vielma/Personal/Projects/Cursos/Curso .Net/TiendaServicios/TiendaServicios.Api.Autor/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/erick.vielma/Personal/Projects/Cursos/Curso .Net/TiendaServicios/TiendaServicios.Api.Autor/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/Users/erick.vielma/Personal/Projects/Cursos/Curso .Net/TiendaServicios/TiendaServicios.Api.Autor/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+/Users/erick.vielma/Personal/Projects/Cursos/Curso .Net/TiendaServicios/TiendaServicios.Api.Autor/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/erick.vielma/Personal/Projects/Cursos/Curso .Net/TiendaServicios/TiendaServicios.Api.Autor/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+/Users/erick.vielma/Personal/Projects/Cursos/Curso .Net/TiendaServicios/TiendaServicios.Api.Autor/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/erick.vielma/Personal/Projects/Cursos/Curso .Net/TiendaServicios/TiendaServicios.Api.Autor/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/erick.vielma/Personal/Projects/Cursos/Curso .Net/TiendaServicios/TiendaServicios.Api.Autor/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/erick.vielma/Personal/Projects/Cursos/Curso .Net/TiendaServicios/TiendaServicios.Api.Autor/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/erick.vielma/Personal/Projects/Cursos/Curso .Net/TiendaServicios/TiendaServicios.Api.Autor/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/erick.vielma/Personal/Projects/Cursos/Curso .Net/TiendaServicios/TiendaServicios.Api.Autor/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/erick.vielma/Personal/Projects/Cursos/Curso .Net/TiendaServicios/TiendaServicios.Api.Autor/bin/Debug/netcoreapp3.1/Npgsql.dll
+/Users/erick.vielma/Personal/Projects/Cursos/Curso .Net/TiendaServicios/TiendaServicios.Api.Autor/bin/Debug/netcoreapp3.1/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/erick.vielma/Personal/Projects/Cursos/Curso .Net/TiendaServicios/TiendaServicios.Api.Autor/obj/Debug/netcoreapp3.1/TiendaServicios.Api.Autor.csproj.AssemblyReference.cache
+/Users/erick.vielma/Personal/Projects/Cursos/Curso .Net/TiendaServicios/TiendaServicios.Api.Autor/obj/Debug/netcoreapp3.1/TiendaServicios.Api.Autor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/erick.vielma/Personal/Projects/Cursos/Curso .Net/TiendaServicios/TiendaServicios.Api.Autor/obj/Debug/netcoreapp3.1/TiendaServicios.Api.Autor.AssemblyInfoInputs.cache
+/Users/erick.vielma/Personal/Projects/Cursos/Curso .Net/TiendaServicios/TiendaServicios.Api.Autor/obj/Debug/netcoreapp3.1/TiendaServicios.Api.Autor.AssemblyInfo.cs
+/Users/erick.vielma/Personal/Projects/Cursos/Curso .Net/TiendaServicios/TiendaServicios.Api.Autor/obj/Debug/netcoreapp3.1/TiendaServicios.Api.Autor.csproj.CoreCompileInputs.cache
+/Users/erick.vielma/Personal/Projects/Cursos/Curso .Net/TiendaServicios/TiendaServicios.Api.Autor/obj/Debug/netcoreapp3.1/TiendaServicios.Api.Autor.MvcApplicationPartsAssemblyInfo.cache
+/Users/erick.vielma/Personal/Projects/Cursos/Curso .Net/TiendaServicios/TiendaServicios.Api.Autor/obj/Debug/netcoreapp3.1/staticwebassets/TiendaServicios.Api.Autor.StaticWebAssets.Manifest.cache
+/Users/erick.vielma/Personal/Projects/Cursos/Curso .Net/TiendaServicios/TiendaServicios.Api.Autor/obj/Debug/netcoreapp3.1/TiendaServicios.Api.Autor.RazorTargetAssemblyInfo.cache
+/Users/erick.vielma/Personal/Projects/Cursos/Curso .Net/TiendaServicios/TiendaServicios.Api.Autor/obj/Debug/netcoreapp3.1/TiendaServicios.Api.Autor.csproj.CopyComplete
+/Users/erick.vielma/Personal/Projects/Cursos/Curso .Net/TiendaServicios/TiendaServicios.Api.Autor/obj/Debug/netcoreapp3.1/TiendaServicios.Api.Autor.dll
+/Users/erick.vielma/Personal/Projects/Cursos/Curso .Net/TiendaServicios/TiendaServicios.Api.Autor/obj/Debug/netcoreapp3.1/TiendaServicios.Api.Autor.pdb
+/Users/erick.vielma/Personal/Projects/Cursos/Curso .Net/TiendaServicios/TiendaServicios.Api.Autor/obj/Debug/netcoreapp3.1/TiendaServicios.Api.Autor.genruntimeconfig.cache
+/Users/erick.vielma/Personal/Projects/Cursos/Curso .Net/TiendaServicios/TiendaServicios.Api.Autor/bin/Debug/netcoreapp3.1/FluentValidation.dll
+/Users/erick.vielma/Personal/Projects/Cursos/Curso .Net/TiendaServicios/TiendaServicios.Api.Autor/bin/Debug/netcoreapp3.1/FluentValidation.AspNetCore.dll
+/Users/erick.vielma/Personal/Projects/Cursos/Curso .Net/TiendaServicios/TiendaServicios.Api.Autor/bin/Debug/netcoreapp3.1/FluentValidation.DependencyInjectionExtensions.dll
+/Users/erick.vielma/Personal/Projects/Cursos/Curso .Net/TiendaServicios/TiendaServicios.Api.Autor/obj/Debug/netcoreapp3.1/TiendaServicios.Api.Autor.MvcApplicationPartsAssemblyInfo.cs
+/Users/erick.vielma/Personal/Projects/Cursos/Curso .Net/TiendaServicios/TiendaServicios.Api.Autor/bin/Debug/netcoreapp3.1/AutoMapper.dll
+/Users/erick.vielma/Personal/Projects/Cursos/Curso .Net/TiendaServicios/TiendaServicios.Api.Autor/bin/Debug/netcoreapp3.1/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Personal\Source\Cursos\Curso .Net\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Personal\Source\Cursos\Curso .Net\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Personal\Source\Cursos\Curso .Net\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.exe
+C:\Personal\Source\Cursos\Curso .Net\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.deps.json
+C:\Personal\Source\Cursos\Curso .Net\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.runtimeconfig.json
+C:\Personal\Source\Cursos\Curso .Net\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.runtimeconfig.dev.json
+C:\Personal\Source\Cursos\Curso .Net\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.dll
+C:\Personal\Source\Cursos\Curso .Net\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.pdb
+C:\Personal\Source\Cursos\Curso .Net\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Personal\Source\Cursos\Curso .Net\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Personal\Source\Cursos\Curso .Net\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Personal\Source\Cursos\Curso .Net\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+C:\Personal\Source\Cursos\Curso .Net\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+C:\Personal\Source\Cursos\Curso .Net\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\MediatR.dll
+C:\Personal\Source\Cursos\Curso .Net\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\MediatR.Contracts.dll
+C:\Personal\Source\Cursos\Curso .Net\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Personal\Source\Cursos\Curso .Net\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Personal\Source\Cursos\Curso .Net\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Personal\Source\Cursos\Curso .Net\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Personal\Source\Cursos\Curso .Net\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Personal\Source\Cursos\Curso .Net\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Personal\Source\Cursos\Curso .Net\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Personal\Source\Cursos\Curso .Net\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Personal\Source\Cursos\Curso .Net\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Personal\Source\Cursos\Curso .Net\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Personal\Source\Cursos\Curso .Net\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Personal\Source\Cursos\Curso .Net\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Personal\Source\Cursos\Curso .Net\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Personal\Source\Cursos\Curso .Net\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Personal\Source\Cursos\Curso .Net\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Personal\Source\Cursos\Curso .Net\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Personal\Source\Cursos\Curso .Net\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Personal\Source\Cursos\Curso .Net\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Personal\Source\Cursos\Curso .Net\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Personal\Source\Cursos\Curso .Net\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Personal\Source\Cursos\Curso .Net\TiendaServicios\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.csproj.AssemblyReference.cache
+C:\Personal\Source\Cursos\Curso .Net\TiendaServicios\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal\Source\Cursos\Curso .Net\TiendaServicios\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.AssemblyInfoInputs.cache
+C:\Personal\Source\Cursos\Curso .Net\TiendaServicios\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.AssemblyInfo.cs
+C:\Personal\Source\Cursos\Curso .Net\TiendaServicios\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.csproj.CoreCompileInputs.cache
+C:\Personal\Source\Cursos\Curso .Net\TiendaServicios\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.MvcApplicationPartsAssemblyInfo.cs
+C:\Personal\Source\Cursos\Curso .Net\TiendaServicios\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.MvcApplicationPartsAssemblyInfo.cache
+C:\Personal\Source\Cursos\Curso .Net\TiendaServicios\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\staticwebassets\TiendaServicios.Api.Autor.StaticWebAssets.Manifest.cache
+C:\Personal\Source\Cursos\Curso .Net\TiendaServicios\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\staticwebassets\TiendaServicios.Api.Autor.StaticWebAssets.xml
+C:\Personal\Source\Cursos\Curso .Net\TiendaServicios\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\scopedcss\bundle\TiendaServicios.Api.Autor.styles.css
+C:\Personal\Source\Cursos\Curso .Net\TiendaServicios\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.RazorTargetAssemblyInfo.cache
+C:\Personal\Source\Cursos\Curso .Net\TiendaServicios\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.csproj.CopyComplete
+C:\Personal\Source\Cursos\Curso .Net\TiendaServicios\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.dll
+C:\Personal\Source\Cursos\Curso .Net\TiendaServicios\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.pdb
+C:\Personal\Source\Cursos\Curso .Net\TiendaServicios\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.genruntimeconfig.cache

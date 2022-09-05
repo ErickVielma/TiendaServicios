@@ -1,23 +1,22 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 
+/**
+ * Entidad de AutorLibro de la base de datos
+ * 
+ * Author: Erick Eduardo Vielma Martínez
+ * Since: Lunes, 29 de Agosto del 2022
+ */
 namespace TiendaServicios.Api.Autor.Modelo
 {
     public class AutorLibro
     {
-         public int AutorLibroId { get; set; }
-
-         public string Nombre { get; set; }
-
-         public string Apellido { get; set; }
-
-         public DateTime? FechaNacimiento { get; set; }
-              
-         public ICollection<GradoAcademico> ListaGradoAcademico { get; set; }
-
-         public string AutorLibroGuid { get; set; }
-
+        public int autorLibroId { get; set; }
+        public string nombre { get; set; }
+        public string apellido { get; set; }
+        public DateTime? fechaNacimiento { get; set; }
+        public ICollection<GradoAcademico> listaGradoAcademico { get; set; }
+        public string autorLibroGuid { get; set; }
     }
 }
+
