@@ -1,0 +1,8 @@
+
+*.cache
+TiendaServicios.Api.Autor/obj/project.assets.json
+TiendaServicios.Api.Autor/obj/TiendaServicios.Api.Autor.csproj.nuget.dgspec.json
+*.cache
+*.targets
+*.props
+*.editorconfig
