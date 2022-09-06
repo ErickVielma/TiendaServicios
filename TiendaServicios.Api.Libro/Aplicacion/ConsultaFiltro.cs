@@ -14,7 +14,7 @@ namespace TiendaServicios.Api.Libro.Aplicacion
     {
         public class LibroUnico : IRequest<LibreriaMaterialDto>
         {
-            public string libreriaMaterialId { get; set; }
+            public Guid? libreriaMaterialId { get; set; }
         }
 
         public class Manejador : IRequestHandler<LibroUnico, LibreriaMaterialDto>
@@ -30,13 +30,13 @@ namespace TiendaServicios.Api.Libro.Aplicacion
 
             public async Task<LibreriaMaterialDto> Handle(LibroUnico request, CancellationToken cancellationToken)
             {
-                var autor = await _contexto.LibreriaMaterial.Where(x => Convert.ToString(x.libreriaMaterialId) == request.libreriaMaterialId).FirstOrDefaultAsync();
-                if (autor == null)
+                var libro = await _contexto.LibreriaMaterial.Where(x => x.libreriaMaterialId == request.libreriaMaterialId).FirstOrDefaultAsync();
+                if (libro == null)
                 {
-                    throw new Exception("No se encontro el autor");
+                    throw new Exception("No se encontro el Libro");
                 }
-                var autorDto = _mapper.Map<LibreriaMaterial, LibreriaMaterialDto>(autor);
-                return autorDto;
+                var libroDto = _mapper.Map<LibreriaMaterial, LibreriaMaterialDto>(libro);
+                return libroDto;
             }
         }
     }

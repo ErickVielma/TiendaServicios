@@ -10,8 +10,8 @@ using TiendaServicios.Api.Libro.Persistencia;
 namespace TiendaServicios.Api.Libro.Migrations
 {
     [DbContext(typeof(ContextoLibreria))]
-    [Migration("20220905154350_Migracion-inicial")]
-    partial class Migracioninicial
+    [Migration("20220905194647_Migracion-Inicial")]
+    partial class MigracionInicial
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {

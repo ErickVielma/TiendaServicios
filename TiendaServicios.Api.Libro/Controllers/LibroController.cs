@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using MediatR;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using TiendaServicios.Api.Libro.Aplicacion;
 
@@ -39,7 +40,7 @@ namespace TiendaServicios.Api.Libro.Controllers
         [HttpGet("{id}")]
         public async Task<ActionResult<LibreriaMaterialDto>> getAutor(string id)
         {
-            return await _mediator.Send(new ConsultaFiltro.LibroUnico { libreriaMaterialId = id });
+            return await _mediator.Send(new ConsultaFiltro.LibroUnico { libreriaMaterialId = new Guid(id) });
         }
     }
 }

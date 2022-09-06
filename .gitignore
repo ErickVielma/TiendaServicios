@@ -9,3 +9,9 @@ TiendaServicios.Api.Autor/obj/TiendaServicios.Api.Autor.csproj.nuget.dgspec.json
 *.cache
 *.json
 *.json
+*.config
+*.testlog
+*.manifest
+*.dll
+*.pdb
+*.cache

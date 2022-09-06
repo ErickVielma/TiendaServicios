@@ -10,7 +10,7 @@ using TiendaServicios.Api.CarritoCompra.Persistencia;
 namespace TiendaServicios.Api.CarritoCompra.Migrations
 {
     [DbContext(typeof(CarritoContexto))]
-    [Migration("20220902182157_MigracionInicial")]
+    [Migration("20220905194755_Migracion-Inicial")]
     partial class MigracionInicial
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

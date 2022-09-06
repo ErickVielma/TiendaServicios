@@ -10,8 +10,8 @@ using TiendaServicios.Api.Autor.Persistencia;
 namespace TiendaServicios.Api.Autor.Migrations
 {
     [DbContext(typeof(ContextoAutor))]
-    [Migration("20220905154239_Migracion-inicial")]
-    partial class Migracioninicial
+    [Migration("20220905194729_Migracion-Inicial")]
+    partial class MigracionInicial
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
