@@ -11,6 +11,9 @@ using TiendaServicios.Api.Libro.Persistencia;
 using Xunit;
 namespace TiendaServicios.Api.Libro.Tests
 {
+    /**
+    * Clase de pruebas unitarias del microservicio de libros
+    */
     public class LibrosServiceTest
     {
         private IEnumerable<LibreriaMaterial> obtenerDatosPrueba()
