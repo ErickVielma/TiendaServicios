@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ILdfTCDUVebyEoKs4BldmEbnxZTcaCKYc6cgTHDGhFnrawHEbG9YtOeTkNWZSpiZo0tQ/C8PyLWrfIWR78u+5Q==",
+  "dgSpecHash": "t0R0b7py5u1Zf8FEQkwIChAVoRBqOGps7EvMc7Ppr5c8BobHWmF+0yK3f7ikNG4PpOwFI1NlMj35hDFhR9luqw==",
   "success": true,
   "projectFilePath": "C:\\Personal\\Source\\Cursos\\Curso .Net\\TiendaServicios\\TiendaServicios.Api.Autor\\TiendaServicios.Api.Autor.csproj",
   "expectedPackageFiles": [
@@ -33,6 +33,7 @@
     "C:\\Users\\erick\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.2\\microsoft.extensions.primitives.3.1.2.nupkg.sha512",
     "C:\\Users\\erick\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\erick\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\erick\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512",
     "C:\\Users\\erick\\.nuget\\packages\\npgsql\\4.1.3\\npgsql.4.1.3.nupkg.sha512",
     "C:\\Users\\erick\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\3.1.2\\npgsql.entityframeworkcore.postgresql.3.1.2.nupkg.sha512",
     "C:\\Users\\erick\\.nuget\\packages\\system.collections.immutable\\1.7.0\\system.collections.immutable.1.7.0.nupkg.sha512",
