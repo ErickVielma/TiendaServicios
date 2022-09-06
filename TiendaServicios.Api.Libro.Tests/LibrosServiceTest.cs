@@ -102,8 +102,6 @@ namespace TiendaServicios.Api.Libro.Tests
         [Fact]
         public async void guardarLibro()
         {
-            System.Diagnostics.Debugger.Launch();
-
             var options = new DbContextOptionsBuilder<ContextoLibreria>()
                 .UseInMemoryDatabase(databaseName: "tienda_libro")
                 .Options;
