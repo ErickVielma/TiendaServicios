@@ -20,8 +20,7 @@
     "TiendaServicios.Api.Libro": {
       "commandName": "Project",
       "launchBrowser": true,
-      "launchUrl": "api/Libro",
-      "applicationUrl": "http://localhost:8081",
+      "applicationUrl": "http://localhost:34480",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
