@@ -80,6 +80,7 @@ C:\Personal\Source\Cursos\Curso .Net\TiendaServicios\TiendaServicios.Api.Autor\b
 C:\Personal\Source\Cursos\Curso .Net\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
 C:\Personal\Source\Cursos\Curso .Net\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Npgsql.dll
 C:\Personal\Source\Cursos\Curso .Net\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Personal\Source\Cursos\Curso .Net\TiendaServicios\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.csproj.AssemblyReference.cache
 C:\Personal\Source\Cursos\Curso .Net\TiendaServicios\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.GeneratedMSBuildEditorConfig.editorconfig
 C:\Personal\Source\Cursos\Curso .Net\TiendaServicios\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.AssemblyInfoInputs.cache
 C:\Personal\Source\Cursos\Curso .Net\TiendaServicios\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.AssemblyInfo.cs
@@ -87,11 +88,10 @@ C:\Personal\Source\Cursos\Curso .Net\TiendaServicios\TiendaServicios.Api.Autor\o
 C:\Personal\Source\Cursos\Curso .Net\TiendaServicios\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.MvcApplicationPartsAssemblyInfo.cs
 C:\Personal\Source\Cursos\Curso .Net\TiendaServicios\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.MvcApplicationPartsAssemblyInfo.cache
 C:\Personal\Source\Cursos\Curso .Net\TiendaServicios\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\staticwebassets\TiendaServicios.Api.Autor.StaticWebAssets.Manifest.cache
+C:\Personal\Source\Cursos\Curso .Net\TiendaServicios\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\staticwebassets\TiendaServicios.Api.Autor.StaticWebAssets.xml
+C:\Personal\Source\Cursos\Curso .Net\TiendaServicios\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\scopedcss\bundle\TiendaServicios.Api.Autor.styles.css
 C:\Personal\Source\Cursos\Curso .Net\TiendaServicios\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.RazorTargetAssemblyInfo.cache
 C:\Personal\Source\Cursos\Curso .Net\TiendaServicios\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.csproj.CopyComplete
 C:\Personal\Source\Cursos\Curso .Net\TiendaServicios\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.dll
 C:\Personal\Source\Cursos\Curso .Net\TiendaServicios\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.pdb
 C:\Personal\Source\Cursos\Curso .Net\TiendaServicios\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.genruntimeconfig.cache
-C:\Personal\Source\Cursos\Curso .Net\TiendaServicios\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.csproj.AssemblyReference.cache
-C:\Personal\Source\Cursos\Curso .Net\TiendaServicios\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\staticwebassets\TiendaServicios.Api.Autor.StaticWebAssets.xml
-C:\Personal\Source\Cursos\Curso .Net\TiendaServicios\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\scopedcss\bundle\TiendaServicios.Api.Autor.styles.css
