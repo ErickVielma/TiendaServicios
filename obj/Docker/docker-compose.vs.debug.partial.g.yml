@@ -12,19 +12,19 @@ services:
     environment:
       - DOTNET_USE_POLLING_FILE_WATCHER=1
       - ASPNETCORE_LOGGING__CONSOLE__DISABLECOLORS=true
-      - NUGET_FALLBACK_PACKAGES=
+      #- NUGET_FALLBACK_PACKAGES=$container_paths_to_fallback_packages_tiendaservicios.api.autor$
     volumes:
       - C:\Personal\Source\Cursos\Curso .Net\TiendaServicios\TiendaServicios.Api.Autor:/app
       - C:\Personal\Source\Cursos\Curso .Net\TiendaServicios:/src
       - C:\Users\erick\vsdbg\vs2017u5:/remote_debugger:rw
-      - C:\Users\erick\.nuget\packages\:/root/.nuget/packages:ro
+#$nuget_volume_mapping_tiendaservicios.api.autor$
       - ${APPDATA}/ASP.NET/Https:/root/.aspnet/https:ro
       - ${APPDATA}/Microsoft/UserSecrets:/root/.microsoft/usersecrets:ro
 
     entrypoint: tail -f /dev/null
     labels:
       com.microsoft.visualstudio.debuggee.program: "dotnet"
-      com.microsoft.visualstudio.debuggee.arguments: " --additionalProbingPath /root/.nuget/packages  \"/app/bin/Debug/netcoreapp3.1/TiendaServicios.Api.Autor.dll\""
+      #com.microsoft.visualstudio.debuggee.arguments: " $debuggee_arguments_probing_paths_tiendaservicios.api.autor$ \"/app/bin/Debug/netcoreapp3.1/TiendaServicios.Api.Autor.dll\""
       com.microsoft.visualstudio.debuggee.workingdirectory: "/app"
       com.microsoft.visualstudio.debuggee.killprogram: "/bin/sh -c \"if PID=$$(pidof dotnet); then kill $$PID; fi\""
     tty: true
@@ -39,19 +39,19 @@ services:
     environment:
       - DOTNET_USE_POLLING_FILE_WATCHER=1
       - ASPNETCORE_LOGGING__CONSOLE__DISABLECOLORS=true
-      - NUGET_FALLBACK_PACKAGES=
+      #- NUGET_FALLBACK_PACKAGES=$container_paths_to_fallback_packages_tiendaservicios.api.carritocompra$
     volumes:
       - C:\Personal\Source\Cursos\Curso .Net\TiendaServicios\TiendaServicios.Api.CarritoCompra:/app
       - C:\Personal\Source\Cursos\Curso .Net\TiendaServicios:/src
       - C:\Users\erick\vsdbg\vs2017u5:/remote_debugger:rw
-      - C:\Users\erick\.nuget\packages\:/root/.nuget/packages:ro
+#$nuget_volume_mapping_tiendaservicios.api.carritocompra$
       - ${APPDATA}/ASP.NET/Https:/root/.aspnet/https:ro
       - ${APPDATA}/Microsoft/UserSecrets:/root/.microsoft/usersecrets:ro
 
     entrypoint: tail -f /dev/null
     labels:
       com.microsoft.visualstudio.debuggee.program: "dotnet"
-      com.microsoft.visualstudio.debuggee.arguments: " --additionalProbingPath /root/.nuget/packages  \"/app/bin/Debug/netcoreapp3.1/TiendaServicios.Api.CarritoCompra.dll\""
+      #com.microsoft.visualstudio.debuggee.arguments: " $debuggee_arguments_probing_paths_tiendaservicios.api.carritocompra$ \"/app/bin/Debug/netcoreapp3.1/TiendaServicios.Api.CarritoCompra.dll\""
       com.microsoft.visualstudio.debuggee.workingdirectory: "/app"
       com.microsoft.visualstudio.debuggee.killprogram: "/bin/sh -c \"if PID=$$(pidof dotnet); then kill $$PID; fi\""
     tty: true
@@ -67,19 +67,19 @@ services:
     environment:
       - DOTNET_USE_POLLING_FILE_WATCHER=1
       - ASPNETCORE_LOGGING__CONSOLE__DISABLECOLORS=true
-      - NUGET_FALLBACK_PACKAGES=
+      #- NUGET_FALLBACK_PACKAGES=$container_paths_to_fallback_packages_tiendaservicios.api.gateway$
     volumes:
       - C:\Personal\Source\Cursos\Curso .Net\TiendaServicios\TiendaServicios.Api.Gateway:/app
       - C:\Personal\Source\Cursos\Curso .Net\TiendaServicios:/src
       - C:\Users\erick\vsdbg\vs2017u5:/remote_debugger:rw
-      - C:\Users\erick\.nuget\packages\:/root/.nuget/packages:ro
+#$nuget_volume_mapping_tiendaservicios.api.gateway$
       - ${APPDATA}/ASP.NET/Https:/root/.aspnet/https:ro
       - ${APPDATA}/Microsoft/UserSecrets:/root/.microsoft/usersecrets:ro
 
     entrypoint: tail -f /dev/null
     labels:
       com.microsoft.visualstudio.debuggee.program: "dotnet"
-      com.microsoft.visualstudio.debuggee.arguments: " --additionalProbingPath /root/.nuget/packages  \"/app/bin/Debug/netcoreapp3.1/TiendaServicios.Api.Gateway.dll\""
+      #com.microsoft.visualstudio.debuggee.arguments: " $debuggee_arguments_probing_paths_tiendaservicios.api.gateway$ \"/app/bin/Debug/netcoreapp3.1/TiendaServicios.Api.Gateway.dll\""
       com.microsoft.visualstudio.debuggee.workingdirectory: "/app"
       com.microsoft.visualstudio.debuggee.killprogram: "/bin/sh -c \"if PID=$$(pidof dotnet); then kill $$PID; fi\""
     tty: true
@@ -95,19 +95,19 @@ services:
     environment:
       - DOTNET_USE_POLLING_FILE_WATCHER=1
       - ASPNETCORE_LOGGING__CONSOLE__DISABLECOLORS=true
-      - NUGET_FALLBACK_PACKAGES=
+      #- NUGET_FALLBACK_PACKAGES=$container_paths_to_fallback_packages_tiendaservicios.api.libro$
     volumes:
       - C:\Personal\Source\Cursos\Curso .Net\TiendaServicios\TiendaServicios.Api.Libro:/app
       - C:\Personal\Source\Cursos\Curso .Net\TiendaServicios:/src
       - C:\Users\erick\vsdbg\vs2017u5:/remote_debugger:rw
-      - C:\Users\erick\.nuget\packages\:/root/.nuget/packages:ro
+#$nuget_volume_mapping_tiendaservicios.api.libro$
       - ${APPDATA}/ASP.NET/Https:/root/.aspnet/https:ro
       - ${APPDATA}/Microsoft/UserSecrets:/root/.microsoft/usersecrets:ro
 
     entrypoint: tail -f /dev/null
     labels:
       com.microsoft.visualstudio.debuggee.program: "dotnet"
-      com.microsoft.visualstudio.debuggee.arguments: " --additionalProbingPath /root/.nuget/packages  \"/app/bin/Debug/netcoreapp3.1/TiendaServicios.Api.Libro.dll\""
+      #com.microsoft.visualstudio.debuggee.arguments: " $debuggee_arguments_probing_paths_tiendaservicios.api.libro$ \"/app/bin/Debug/netcoreapp3.1/TiendaServicios.Api.Libro.dll\""
       com.microsoft.visualstudio.debuggee.workingdirectory: "/app"
       com.microsoft.visualstudio.debuggee.killprogram: "/bin/sh -c \"if PID=$$(pidof dotnet); then kill $$PID; fi\""
     tty: true
