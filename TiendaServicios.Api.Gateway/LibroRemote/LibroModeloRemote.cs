@@ -12,6 +12,6 @@ namespace TiendaServicios.Api.Gateway.LibroRemote
         public DateTime? fechaPublicacion { get; set; }
         public Guid? autorLibro { get; set; }
 
-        public AutorModeloRemote autor { get; set }
+        public AutorModeloRemote autor { get; set; }
     }
 }

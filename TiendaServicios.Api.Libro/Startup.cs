@@ -15,6 +15,8 @@ using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using TiendaServicios.Api.Libro.Aplicacion;
 using TiendaServicios.Api.Libro.Persistencia;
+using TiendaServicios.RabbitMQ.Bus.BusRabbit;
+using TiendaServicios.RabbitMQ.Bus.Implement;
 
 namespace TiendaServicios.Api.Libro
 {
@@ -46,6 +48,11 @@ namespace TiendaServicios.Api.Libro
              * Método que se encarga de mapear los Modelos con los dtos
              */
             services.AddAutoMapper(typeof(Consulta.Manejador));
+            //services.AddTransient<IRabbitEventBus, RabbitEventBus>();
+            services.AddTransient<IRabbitEventBus, IRabbitEventBus>(sp => {
+                var scopeFactory = sp.GetRequiredService<IServiceScopeFactory>();
+                return new RabbitEventBus(sp.GetService<IMediator>(), scopeFactory);
+            });
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

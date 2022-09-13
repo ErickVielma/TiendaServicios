@@ -57,3 +57,7 @@ C:\Personal\Source\Cursos\Curso .Net\TiendaServicios\bin\Debug\TiendaServicios.A
 C:\Personal\Source\Cursos\Curso .Net\TiendaServicios\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
 C:\Personal\Source\Cursos\Curso .Net\TiendaServicios\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
 C:\Personal\Source\Cursos\Curso .Net\TiendaServicios\obj\Debug\docker-compose.dcproj.CopyComplete
+C:\Personal\Source\Cursos\Curso .Net\TiendaServicios\bin\Debug\TiendaServicios.RabbitMQ.Bus.dll
+C:\Personal\Source\Cursos\Curso .Net\TiendaServicios\bin\Debug\RabbitMQ.Client.dll
+C:\Personal\Source\Cursos\Curso .Net\TiendaServicios\bin\Debug\System.Threading.Channels.dll
+C:\Personal\Source\Cursos\Curso .Net\TiendaServicios\bin\Debug\TiendaServicios.RabbitMQ.Bus.pdb

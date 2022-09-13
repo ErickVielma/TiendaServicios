@@ -80,7 +80,6 @@ C:\Personal\Source\Cursos\Curso .Net\TiendaServicios\TiendaServicios.Api.Autor\b
 C:\Personal\Source\Cursos\Curso .Net\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
 C:\Personal\Source\Cursos\Curso .Net\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Npgsql.dll
 C:\Personal\Source\Cursos\Curso .Net\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
-C:\Personal\Source\Cursos\Curso .Net\TiendaServicios\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.csproj.AssemblyReference.cache
 C:\Personal\Source\Cursos\Curso .Net\TiendaServicios\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.GeneratedMSBuildEditorConfig.editorconfig
 C:\Personal\Source\Cursos\Curso .Net\TiendaServicios\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.AssemblyInfoInputs.cache
 C:\Personal\Source\Cursos\Curso .Net\TiendaServicios\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.AssemblyInfo.cs

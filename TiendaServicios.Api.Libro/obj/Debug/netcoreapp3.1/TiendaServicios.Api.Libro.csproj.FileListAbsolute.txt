@@ -94,3 +94,8 @@ C:\Personal\Source\Cursos\Curso .Net\TiendaServicios\TiendaServicios.Api.Libro\o
 C:\Personal\Source\Cursos\Curso .Net\TiendaServicios\TiendaServicios.Api.Libro\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Libro.dll
 C:\Personal\Source\Cursos\Curso .Net\TiendaServicios\TiendaServicios.Api.Libro\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Libro.pdb
 C:\Personal\Source\Cursos\Curso .Net\TiendaServicios\TiendaServicios.Api.Libro\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Libro.genruntimeconfig.cache
+C:\Personal\Source\Cursos\Curso .Net\TiendaServicios\TiendaServicios.Api.Libro\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Personal\Source\Cursos\Curso .Net\TiendaServicios\TiendaServicios.Api.Libro\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Personal\Source\Cursos\Curso .Net\TiendaServicios\TiendaServicios.Api.Libro\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Personal\Source\Cursos\Curso .Net\TiendaServicios\TiendaServicios.Api.Libro\bin\Debug\netcoreapp3.1\TiendaServicios.RabbitMQ.Bus.dll
+C:\Personal\Source\Cursos\Curso .Net\TiendaServicios\TiendaServicios.Api.Libro\bin\Debug\netcoreapp3.1\TiendaServicios.RabbitMQ.Bus.pdb

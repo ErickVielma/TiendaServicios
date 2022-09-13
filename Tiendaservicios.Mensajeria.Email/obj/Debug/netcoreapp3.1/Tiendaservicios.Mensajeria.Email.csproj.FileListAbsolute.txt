@@ -1,0 +1,10 @@
+C:\Personal\Source\Cursos\Curso .Net\TiendaServicios\Tiendaservicios.Mensajeria.Email\bin\Debug\netcoreapp3.1\Tiendaservicios.Mensajeria.Email.deps.json
+C:\Personal\Source\Cursos\Curso .Net\TiendaServicios\Tiendaservicios.Mensajeria.Email\bin\Debug\netcoreapp3.1\Tiendaservicios.Mensajeria.Email.dll
+C:\Personal\Source\Cursos\Curso .Net\TiendaServicios\Tiendaservicios.Mensajeria.Email\bin\Debug\netcoreapp3.1\Tiendaservicios.Mensajeria.Email.pdb
+C:\Personal\Source\Cursos\Curso .Net\TiendaServicios\Tiendaservicios.Mensajeria.Email\obj\Debug\netcoreapp3.1\Tiendaservicios.Mensajeria.Email.csproj.AssemblyReference.cache
+C:\Personal\Source\Cursos\Curso .Net\TiendaServicios\Tiendaservicios.Mensajeria.Email\obj\Debug\netcoreapp3.1\Tiendaservicios.Mensajeria.Email.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal\Source\Cursos\Curso .Net\TiendaServicios\Tiendaservicios.Mensajeria.Email\obj\Debug\netcoreapp3.1\Tiendaservicios.Mensajeria.Email.AssemblyInfoInputs.cache
+C:\Personal\Source\Cursos\Curso .Net\TiendaServicios\Tiendaservicios.Mensajeria.Email\obj\Debug\netcoreapp3.1\Tiendaservicios.Mensajeria.Email.AssemblyInfo.cs
+C:\Personal\Source\Cursos\Curso .Net\TiendaServicios\Tiendaservicios.Mensajeria.Email\obj\Debug\netcoreapp3.1\Tiendaservicios.Mensajeria.Email.csproj.CoreCompileInputs.cache
+C:\Personal\Source\Cursos\Curso .Net\TiendaServicios\Tiendaservicios.Mensajeria.Email\obj\Debug\netcoreapp3.1\Tiendaservicios.Mensajeria.Email.dll
+C:\Personal\Source\Cursos\Curso .Net\TiendaServicios\Tiendaservicios.Mensajeria.Email\obj\Debug\netcoreapp3.1\Tiendaservicios.Mensajeria.Email.pdb

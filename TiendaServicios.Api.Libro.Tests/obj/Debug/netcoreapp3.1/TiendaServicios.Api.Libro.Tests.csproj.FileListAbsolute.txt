@@ -1,0 +1,5 @@
+C:\Personal\Source\Cursos\Curso .Net\TiendaServicios\TiendaServicios.Api.Libro.Tests\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Libro.Tests.csproj.AssemblyReference.cache
+C:\Personal\Source\Cursos\Curso .Net\TiendaServicios\TiendaServicios.Api.Libro.Tests\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Libro.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal\Source\Cursos\Curso .Net\TiendaServicios\TiendaServicios.Api.Libro.Tests\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Libro.Tests.AssemblyInfoInputs.cache
+C:\Personal\Source\Cursos\Curso .Net\TiendaServicios\TiendaServicios.Api.Libro.Tests\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Libro.Tests.AssemblyInfo.cs
+C:\Personal\Source\Cursos\Curso .Net\TiendaServicios\TiendaServicios.Api.Libro.Tests\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Libro.Tests.csproj.CoreCompileInputs.cache
